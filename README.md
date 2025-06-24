@@ -27,6 +27,11 @@ winget install Microsoft.Edit
 * Clone the repository
 * For a release build, run: `cargo build --config .cargo/release.toml --release`
 
+
+## Install Instructions
+
+* `cargo install --path .
+  
 ## Notes to Package Maintainers
 
 ### Package Naming
