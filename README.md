@@ -30,6 +30,8 @@ winget install Microsoft.Edit
 
 ## Install Instructions
 
+After building you can install the release application with:
+
 * `cargo install --path .`
   
 ## Notes to Package Maintainers
