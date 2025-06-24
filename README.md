@@ -30,7 +30,7 @@ winget install Microsoft.Edit
 
 ## Install Instructions
 
-* `cargo install --path .
+* `cargo install --path .`
   
 ## Notes to Package Maintainers
 
